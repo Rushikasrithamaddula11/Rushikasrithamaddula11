@@ -11,6 +11,7 @@
 [Portfolio](https://rushikasrithamaddula11.github.io/portfolio/)
 
 [LinkedIn](https://www.linkedin.com/in/rushika-sritha-maddula-340924286/)
+
 Let's infuse the might of AI with the finesse of web development! 🚀✨
 
 ### 📚 Expertise
