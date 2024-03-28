@@ -16,13 +16,18 @@ Let's infuse the might of AI with the finesse of web development! 🚀✨
 
 ### 📚 Expertise
 Artificial Intelligence & Data Science:
+
 Languages: Python, Java
+
 Libraries: scikit-learn, TensorFlow, PyTorch
+
 Techniques: Regression, Classification, Clustering, Natural Language Processing (NLP), Computer Vision
 
 ### Web Development:
 Frontend: HTML, CSS, JavaScript
+
 Backend: Node.js, Express.js
+
 Databases: MongoDB
 
 
