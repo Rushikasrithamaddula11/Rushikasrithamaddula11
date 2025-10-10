@@ -1,36 +1,62 @@
-### 🌟 Welcome to the Cosmos of Intelligent Webcraft! 🚀💻
+### 🌌 Welcome to the Cosmos of Intelligent Webcraft! 🚀💻
 
-### Hey there! 👋 I'm Rushika Sritha Maddula, a relentless voyager at the intersection of artificial intelligence and data science, sculpting groundbreaking marvels where code dances with creativity.
+### Hey there! 👋 I'm **Rushika Sritha Maddula**,  
+A relentless voyager at the intersection of **Artificial Intelligence** and **Web Development**, sculpting marvels where **code dances with creativity** ✨
+
+---
 
 ### 🌐 About Me
-💡 Orchestrating ingenious algorithms and sculpting mesmerizing web narratives since [Year].
-🚀 Harmoniously marrying the elegance of frontend aesthetics with the finesse of backend architecture.
-🌟 Thriving in the symphony of bleeding-edge technologies.
+💡 Orchestrating ingenious algorithms & weaving intelligent web narratives.  
+🚀 Merging the elegance of frontend aesthetics with the finesse of backend logic.  
+🌟 Thriving in the symphony of cutting-edge technologies.  
+🎯 On a mission to #CraftTheFuture with innovation and intelligence.
+
+---
 
 ### 🔗 Connect With Me
-[Portfolio](https://rushikasrithamaddula11.github.io/portfolio/)
+🌍 [**Portfolio**](https://rushikasrithamaddula11.github.io/portfolio/)  
+💼 [**LinkedIn**](https://www.linkedin.com/in/rushika-sritha-maddula-340924286/)  
+💻 [**GitHub**](https://github.com/rushikasrithamaddula11)
 
-[LinkedIn](https://www.linkedin.com/in/rushika-sritha-maddula-340924286/)
+---
 
-Let's infuse the might of AI with the finesse of web development! 🚀✨
+### 🧠 Expertise
 
-### 📚 Expertise
-Artificial Intelligence & Data Science:
+#### 🤖 Artificial Intelligence & Data Science
+**Languages:** Python 🐍 | Java ☕  
+**Libraries:** scikit-learn | TensorFlow | PyTorch  
+**Domains:** Regression | Classification | Clustering | NLP | Computer Vision  
 
-Languages: Python, Java
+#### 💻 Web Development
+**Frontend:** HTML5 | CSS3 | JavaScript | React.js ⚛️  
+**Backend:** Node.js | Express.js  
+**Database:** MongoDB 🍃  
 
-Libraries: scikit-learn, TensorFlow, PyTorch
+---
 
-Techniques: Regression, Classification, Clustering, Natural Language Processing (NLP), Computer Vision
+### 🧰 Tech Stack & Tools
 
-### Web Development:
-Frontend: HTML, CSS, JavaScript
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,tensorflow,pytorch,html,css,js,react,nodejs,express,mongodb,git,github,vscode,figma&perline=8" />
+</p>
 
-Backend: Node.js, Express.js
+---
 
-Databases: MongoDB
+### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rushikasrithamaddula11&show_icons=true&theme=tokyonight" alt="Rushika's GitHub stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rushikasrithamaddula11&theme=tokyonight" alt="Rushika's GitHub streak" height="165" />
+</p>
 
-### 🎨 #CraftingTheFuture
-Embark on the journey to sculpt tomorrow's digital tapestry with #CraftingTheFuture. Let's metamorphose concepts into intelligent web symphonies that inspire and innovate!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushikasrithamaddula11&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 🎨 #CraftingTheFuture  
+Let’s sculpt tomorrow’s digital tapestry together —  
+**Where Artificial Intelligence meets Web Elegance!** 🚀✨
+
 
