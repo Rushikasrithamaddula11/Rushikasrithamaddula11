@@ -46,7 +46,6 @@ A relentless voyager at the intersection of **Artificial Intelligence** and **We
 ---
 
 ### 🏆 Badges & Highlights
-
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Engineer-%F0%9F%A4%96-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Web%20Developer-%F0%9F%92%BB-brightgreen?style=for-the-badge" />
@@ -57,10 +56,9 @@ A relentless voyager at the intersection of **Artificial Intelligence** and **We
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rushikasrithamaddula11&show_icons=true&theme=tokyonight" alt="Rushika's GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rushikasrithamaddula11&theme=tokyonight" alt="Rushika's GitHub streak" height="165" />
+  <img src="https://streak-stats.demolab.com?user=rushikasrithamaddula11&theme=tokyonight" alt="Rushika's GitHub streak" height="165" />
 </p>
 
 <p align="center">
@@ -70,7 +68,6 @@ A relentless voyager at the intersection of **Artificial Intelligence** and **We
 ---
 
 ### 🔥 Contribution Graph
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rushikasrithamaddula11&theme=tokyo-night" alt="Contribution Graph" />
 </p>
