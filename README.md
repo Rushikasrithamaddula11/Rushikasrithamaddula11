@@ -1,39 +1,36 @@
 # Rushika Sritha Maddula
 
-## Artificial Intelligence & Web Development
+## Artificial Intelligence & Web Development Enthusiast
 
-A passionate learner exploring data-driven intelligence and scalable web technologies. Skilled in building machine learning models, designing interactive web solutions, and writing clean, efficient, production-focused code.
+A self-driven and curious learner exploring the convergence of intelligent systems and modern web engineering. I enjoy building scalable digital experiences, experimenting with machine learning models, and translating ideas into functioning technology.
 
 ---
 
 ## About Me
 
-- Interested in developing real-world AI-based applications  
-- Strong foundation in software logic, data handling & system design  
-- Enjoy building responsive web interfaces and functional backends  
-- Focused on code structure, clarity and performance optimization  
+- Enthusiastic about AI, machine learning and full-stack development  
+- Skilled at creating responsive, user-centric web applications  
+- Comfortable working with data, models, APIs and automation  
+- Focused on clean code, strong fundamentals and continuous learning  
+
+**Objective:** To build intelligent, impactful and future-driven software.
 
 ---
 
-## Skills (as Code)
+## Skills
 
-```python
-skills = {
-    "Artificial Intelligence & Data Science": {
-        "languages": ["Python", "Java"],
-        "libraries": ["Scikit-Learn", "TensorFlow", "PyTorch"],
-        "domains": ["Classification", "Regression", "Clustering", "NLP", "Computer Vision"]
-    },
+### Artificial Intelligence & Data Science
+- **Languages:** Python, Java  
+- **Libraries:** Scikit-Learn, TensorFlow, PyTorch  
+- **Areas:** Regression, Classification, Clustering, NLP, Computer Vision  
 
-    "Web Development": {
-        "frontend": ["HTML5", "CSS3", "JavaScript", "React"],
-        "backend": ["Node.js", "Express.js"],
-        "database": ["MongoDB"]
-    },
+### Web Development
+- **Frontend:** HTML5, CSS3, JavaScript, React  
+- **Backend:** Node.js, Express  
+- **Database:** MongoDB  
 
-    "Tools & Platforms": ["Git", "GitHub", "VS Code", "Figma"]
-}
-
+### Tools
+Git, GitHub, VS Code, Figma
 
 ---
 
