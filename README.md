@@ -2,18 +2,18 @@
 
 ## Artificial Intelligence & Web Development Enthusiast
 
-A self-driven and curious learner exploring the convergence of intelligent systems and modern web engineering. I enjoy building scalable digital experiences, experimenting with machine learning models, and translating ideas into functioning technology.
+A self-driven and curious learner exploring the intersection of **artificial intelligence** and **modern web development**. I enjoy building scalable digital experiences, experimenting with machine learning models, and translating ideas into practical, real-world solutions.
 
 ---
 
 ## About Me
 
-- Enthusiastic about AI, machine learning and full-stack development  
-- Skilled at creating responsive, user-centric web applications  
-- Comfortable working with data, models, APIs and automation  
-- Focused on clean code, strong fundamentals and continuous learning  
+- Passionate about Artificial Intelligence, Machine Learning, and Full-Stack Development  
+- Experienced in building responsive, user-centric web applications  
+- Comfortable working with data pipelines, ML models, APIs, and automation  
+- Strong focus on clean code, solid fundamentals, and continuous learning  
 
-**Objective:** To build intelligent, impactful and future-driven software.
+**Objective:** To design intelligent, impactful, and future-ready software systems.
 
 ---
 
@@ -21,15 +21,15 @@ A self-driven and curious learner exploring the convergence of intelligent syste
 
 ### Artificial Intelligence & Data Science
 - **Languages:** Python, Java  
-- **Libraries:** Scikit-Learn, TensorFlow, PyTorch  
-- **Areas:** Regression, Classification, Clustering, NLP, Computer Vision  
+- **Libraries & Frameworks:** Scikit-learn, TensorFlow, PyTorch  
+- **Domains:** Regression, Classification, Clustering, NLP, Computer Vision  
 
 ### Web Development
 - **Frontend:** HTML5, CSS3, JavaScript, React  
 - **Backend:** Node.js, Express  
 - **Database:** MongoDB  
 
-### Tools
+### Tools & Platforms
 Git, GitHub, VS Code, Figma
 
 ---
@@ -43,19 +43,20 @@ Git, GitHub, VS Code, Figma
 
 ---
 
-## GitHub Statistics
+## GitHub Activity & Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rushikasrithamaddula11&show_icons=true)  
-![GitHub Streak](https://streak-stats.demolab.com?user=rushikasrithamaddula11)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rushikasrithamaddula11&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rushikasrithamaddula11&show_icons=true&theme=default)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rushikasrithamaddula11&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rushikasrithamaddula11&layout=compact&theme=default)
 
 ---
 
 ## Professional Summary
 
-Innovative and analytical, I aim to design and develop solutions where machine intelligence enhances user experience. I believe in structured problem-solving, evidence-driven decisions, and shaping technology that delivers long-term value.
+Innovative and analytical, I aim to build solutions where **machine intelligence enhances user experience**. I believe in structured problem-solving, evidence-based decisions, and developing technology that delivers meaningful, long-term value.
 
 ---
 
-### "Building logic with purpose. Designing experiences with intent."
-
+### *"Building logic with purpose. Designing experiences with intent."*
