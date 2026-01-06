@@ -1,5 +1,4 @@
 # Rushika Sritha Maddula  
-
 ## Artificial Intelligence & Full-Stack Web Development Enthusiast  
 
 A self-driven and curious learner passionate about building intelligent systems and modern web applications. I enjoy working at the intersection of **Artificial Intelligence, Machine Learning, and Web Development**, transforming ideas into scalable, real-world solutions.
@@ -7,7 +6,6 @@ A self-driven and curious learner passionate about building intelligent systems 
 ---
 
 ## 👩‍💻 About Me  
-
 - Strong interest in **Artificial Intelligence, Machine Learning, and Full-Stack Development**
 - Experience in building **responsive, user-centric web applications**
 - Hands-on exposure to **data pipelines, ML models, APIs, and automation**
@@ -39,21 +37,26 @@ Git, GitHub, VS Code, Figma
 ---
 
 ## 🌐 Connect With Me  
-
-- **Portfolio:** [rushikasrithamaddula11.github.io/portfolio](https://rushikasrithamaddula11.github.io/portfolio)  
-- **LinkedIn:** [linkedin.com/in/rushika-sritha-maddula-340924286](https://www.linkedin.com/in/rushika-sritha-maddula-340924286)  
-- **GitHub:** [github.com/rushikasrithamaddula11](https://github.com/rushikasrithamaddula11)  
-- **Email:** rushikasrithamaddula11@gmail.com  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome)](https://rushikasrithamaddula11.github.io/portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rushika-sritha-maddula-340924286)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/rushikasrithamaddula11)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:rushikasrithamaddula11@gmail.com)
 
 ---
 
 ## 📊 GitHub Activity & Statistics  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rushikasrithamaddula11&show_icons=true&theme=default)
+<div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rushikasrithamaddula11&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rushikasrithamaddula11&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rushikasrithamaddula11&layout=compact&theme=default)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rushikasrithamaddula11&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rushikasrithamaddula11&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rushikasrithamaddula11&theme=react-dark&hide_border=true)
+
+</div>
 
 ---
 
@@ -63,4 +66,12 @@ Innovative and analytical, I strive to build solutions where **machine intellige
 
 ---
 
-### *“Building logic with purpose. Designing experiences with intent.”*
+### *"Building logic with purpose. Designing experiences with intent."*
+
+---
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=rushikasrithamaddula11&color=blueviolet&style=for-the-badge)
+
+</div>
