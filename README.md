@@ -1,31 +1,31 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rushika%20Sritha%20Maddula&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20ML%20Engineer&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Rushika%20Sritha%20Maddula&amp;fontSize=42&amp;fontColor=fff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Full-Stack%20Developer%20%7C%20AI%20%26%20ML%20Engineer&amp;descAlignY=58&amp;descAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=AI+%26+Full-Stack+Developer;Machine+Learning+Enthusiast;MERN+Stack+%7C+FastAPI+%7C+Django+%7C+Flask;Building+Intelligent%2C+Scalable+Systems;Turning+Ideas+into+Reality+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=24&amp;duration=2800&amp;pause=2000&amp;color=A177F7&amp;center=true&amp;vCenter=true&amp;width=940&amp;lines=AI+%26+Full-Stack+Developer;Machine+Learning+Enthusiast;MERN+Stack+%7C+FastAPI+%7C+Django+%7C+Flask;Building+Intelligent%2C+Scalable+Systems;Turning+Ideas+into+Reality+🚀" alt="Typing SVG" />
 
 <p>
-  <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-A177F7?style=for-the-badge&labelColor=0d0d14" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-5C8AF7?style=for-the-badge&labelColor=0d0d14" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-1D9E75?style=for-the-badge&labelColor=0d0d14" />
+  <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-A177F7?style=for-the-badge&amp;labelColor=0d0d14" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-5C8AF7?style=for-the-badge&amp;labelColor=0d0d14" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-1D9E75?style=for-the-badge&amp;labelColor=0d0d14" />
 </p>
 
 <p>
   <a href="https://www.linkedin.com/in/rushika-sritha-maddula-340924286">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
   </a>
   <a href="https://github.com/rushikasrithamaddula11">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
   </a>
   <a href="mailto:rushikasrithamaddula2005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
   </a>
   <a href="https://rushikasrithamaddula11.github.io/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-A177F7?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-A177F7?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" />
   </a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=rushikasrithamaddula11&color=A177F7&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=rushikasrithamaddula11&amp;color=A177F7&style=for-the-badge&amp;label=PROFILE+VIEWS)
 
 </div>
 
@@ -64,54 +64,54 @@ const rushika = {
 <div align="center">
 
 ### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&amp;logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&amp;logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&amp;logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&amp;logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&amp;logoColor=white)
 
 ### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&amp;logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&amp;logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&amp;logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&amp;logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&amp;logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&amp;logoColor=white)
 
 ### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&amp;logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&amp;logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&amp;logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&amp;logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&amp;logoColor=white)
 
 ### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&amp;logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&amp;logoColor=white)
 
 ### 🤖 AI / ML & Data Science
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&amp;logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&amp;logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&amp;logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&amp;logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&amp;logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&amp;logoColor=white)
 
 ### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&amp;logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&amp;logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&amp;logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&amp;logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&amp;logo=github-actions&amp;logoColor=white)
 
 ### 🔧 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&amp;logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&amp;logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&amp;logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&amp;logo=powerbi&amp;logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&amp;logoColor=white)
 
 </div>
 
@@ -152,13 +152,13 @@ const rushika = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rushikasrithamaddula11&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rushikasrithamaddula11&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rushikasrithamaddula11&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rushikasrithamaddula11&amp;theme=radical&amp;hide_border=true" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushikasrithamaddula11&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=rushikasrithamaddula11&theme=react-dark&hide_border=true&area=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushikasrithamaddula11&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;langs_count=8" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=rushikasrithamaddula11&amp;theme=react-dark&amp;hide_border=true&amp;area=true" />
 </div>
 
 ---
@@ -167,7 +167,7 @@ const rushika = {
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=rushikasrithamaddula11&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
+![](https://github-profile-trophy.vercel.app/?username=rushikasrithamaddula11&amp;theme=radical&amp;no-frame=true&amp;no-bg=false&amp;margin-w=4&amp;row=1)
 
 </div>
 
@@ -221,7 +221,7 @@ const rushika = {
 
 <div align="center">
 
-[![Rushika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rushikasrithamaddula11&theme=github-compact&hide_border=true)](https://github.com/rushikasrithamaddula11)
+[![Rushika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rushikasrithamaddula11&amp;theme=github-compact&amp;hide_border=true)](https://github.com/rushikasrithamaddula11)
 
 </div>
 
@@ -241,7 +241,7 @@ const rushika = {
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=radical)
 
 </div>
 
@@ -252,10 +252,10 @@ const rushika = {
 ### 🤝 Let's Connect & Collaborate!
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-rushikasrithamaddula11.github.io-A177F7?style=for-the-badge)](https://rushikasrithamaddula11.github.io/portfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushika-sritha-maddula-340924286)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rushikasrithamaddula11)
-[![Email](https://img.shields.io/badge/Gmail-rushikasrithamaddula2005%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rushikasrithamaddula2005@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B91%2099493%2039391-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919949339391)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/rushika-sritha-maddula-340924286)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/rushikasrithamaddula11)
+[![Email](https://img.shields.io/badge/Gmail-rushikasrithamaddula2005%40gmail.com-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:rushikasrithamaddula2005@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B91%2099493%2039391-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white)](tel:+919949339391)
 
 ---
 
@@ -263,6 +263,6 @@ const rushika = {
 
 ### *"Building logic with purpose. Designing experiences with intent."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=100&amp;section=footer&amp;animation=twinkling" width="100%">
 
 </div>
