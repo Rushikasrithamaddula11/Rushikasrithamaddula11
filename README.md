@@ -1,6 +1,4 @@
-Sure — here is the **complete README as one copy-paste block**. I removed the images and direct role titles, and added **Linux, Prompt Engineering, LLMs, RAG, and GitLab**.
 
-````markdown
 # 👋 Hi, I'm Rushika Sritha Maddula
 
 ## 🚀 Artificial Intelligence & Software Engineering
